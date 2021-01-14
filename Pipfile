@@ -8,6 +8,8 @@ django = "*"
 wagtail = "*"
 gunicorn = "*"
 django-heroku = "*"
+django-extensions = "*"
+django-allauth = "*"
 
 [dev-packages]
 
